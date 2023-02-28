@@ -1,3 +1,8 @@
+// Nama file    : MTitik.java
+// tanggal      : 22 Februari 2023
+// Nama/NIM     : Kristian David Adi Prasetya/24060121130049
+// Deskripsi    : Kelas yang berisi program utama yang memanfaatkan kelas Titik
+
 public class MTitik {
     public static void main(String[] args) {
         Titik t1 = new Titik();
