@@ -5,20 +5,23 @@
 
 public class OperasiTitik {
 
-    private void refleksiSumbuX(Titik titik) {
+    private static void refleksiSumbuX(Titik titik) {
         Double ordinat = titik.getOrdinat();
         titik.setOrdinat(-1 * ordinat);
     }
-    private void refleksiSumbuY(Titik titik) {
+    private static void refleksiSumbuY(Titik titik) {
         Double absis = titik.getAbsis();
         titik.setAbsis(-1 * absis);
     }
 
-    public void refleksiX(Titik t) {
+    public static Titik refleksiX(Titik t) {
         refleksiSumbuX(t);
+        return t;
     }
 
-    public void refleksiY(Titik t) {
+    public static Titik refleksiY(Titik t) {
         refleksiSumbuY(t);
+        return t;
     }
+    
 }
