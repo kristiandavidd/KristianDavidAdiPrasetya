@@ -1,3 +1,8 @@
+// Nama file    : PolimorfismeCoercion.java
+// tanggal      : 9 Mei 2023
+// Nama/NIM     : Kristian David Adi Prasetya/24060121130049
+// Deskripsi    : Kelas Polimorfisme bertipe Coercion
+
 package praktikum_7;
 
 public class PolimorfismeCoercion {
