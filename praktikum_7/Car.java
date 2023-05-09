@@ -1,3 +1,8 @@
+// Nama file    : Car.java
+// tanggal      : 9 Mei 2023
+// Nama/NIM     : Kristian David Adi Prasetya/24060121130049
+// Deskripsi    : Kelas Car yang merupakan extends dari Vehicle
+
 package praktikum_7;
 
 public class Car extends Vehicle {
