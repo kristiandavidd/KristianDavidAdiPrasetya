@@ -1,3 +1,8 @@
+// Nama file    : Sewa.java
+// tanggal      : 9 Mei 2023
+// Nama/NIM     : Kristian David Adi Prasetya/24060121130049
+// Deskripsi    : Kelas Sewa yang berisi fungsi main untuk Vehicle
+
 package praktikum_7;
 
 public class Sewa {
