@@ -1,3 +1,8 @@
+// Nama file    : Manajer.java
+// tanggal      : 9 Mei 2023
+// Nama/NIM     : Kristian David Adi Prasetya/24060121130049
+// Deskripsi    : Kelas Manajer yang merupakan extends dari Pegawai
+
 package praktikum_7;
 
 public class Manajer extends Pegawai{
